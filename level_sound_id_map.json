@@ -406,7 +406,7 @@
     "mob.player.hurt_on_fire": 343,
     "mob.warning": 116,
     "mob.warning.baby": 117,
-    "mount" 611,
+    "mount": 611,
     "multi_swap": 565,
     "nearby_close": 367,
     "nearby_closer": 368,
