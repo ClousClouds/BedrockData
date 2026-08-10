@@ -358,27 +358,6 @@
         ],
         "temperature": 2
     },
-    "minecraft:dappled_forest": {
-        "depth": 0.1,
-        "downfall": 0.6,
-        "foliageSnow": 0,
-        "id": 65535,
-        "mapWaterColour": {
-            "a": 255,
-            "b": 84,
-            "g": 81,
-            "r": 55
-        },
-        "rain": true,
-        "scale": 0.2,
-        "tags": [
-            "mountains",
-            "monster",
-            "overworld",
-            "spawns_cold_variant_farm_animals"
-        ],
-        "temperature": 0.6
-    },
     "minecraft:deep_cold_ocean": {
         "depth": -1.8,
         "downfall": 0.5,
